@@ -1,4 +1,6 @@
 # Company Name
+- Type: Bootstrapped / VC Funded
+- Stage (if VC Funded): Pre-seed/Seed/Series A etc 
 
 # Review
 - Reviewer Name: 
