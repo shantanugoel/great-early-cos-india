@@ -22,3 +22,6 @@
 - seed
 - series-a
 - series-b
+- series-c
+- series-d
+- public
