@@ -1,6 +1,6 @@
 # Great Early Stage Companies in India
 
-A peer reviewed/peer maintained list of great early stage companies to work for in India. Ideally, this should be a bootstrapped/pre-seed/seed/series A company. If unsure, raise a PR to discuss.
+A peer reviewed/peer maintained list of great early stage companies to work for in India. Ideally, this should be a bootstrapped/pre-seed/seed/series A company. If unsure, raise a PR to discuss. The intent is to discover good companies, backed by real people/real reviews.
 
 # How to contribute
 - Add companies/\<companyname\>.md
