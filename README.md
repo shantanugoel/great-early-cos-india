@@ -12,5 +12,13 @@ Ideally, this should be a bootstrapped/pre-seed/seed/series A company but it may
 - Add the link in [README](README.md) under `List of Companies` section, if it does not already exist.
   - The list of companies should be alphabetically sorted
 
+# How to use
+- Search through the list of companies listed at the end of this file
+- Click on any company to get more details about the company
+
+# Roadmap
+- For now, accept contributions and let folks browse the repo
+- At some point, we may create a webapp for ease of search / contribution (Volunteers welcome!)
+
 # List of companies
 - 
