@@ -1,6 +1,5 @@
 # Company Name
-- Type: Bootstrapped / VC Funded
-- Stage (if VC Funded): Pre-seed/Seed/Series A etc 
+- Tags: <Comma separated tags from [tag list](../metadata/tags.md)>
 
 # Review
 - Reviewer Name: 
