@@ -1,4 +1,4 @@
-# <Company Name>
+# Company Name
 
 # Review
 - Reviewer Name: 
